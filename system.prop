@@ -179,3 +179,6 @@ ro.ppui.maintainer_name=Probir Ghosh
 # Device model
 ro.product.model=RMX1921
 
+# Disable vsync for cpu rendered apps
+debug.cpurend.vsync=false
+
